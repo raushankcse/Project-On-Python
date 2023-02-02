@@ -8,3 +8,6 @@
 
 # Digital Clock
 ![Screenshot (13)](https://user-images.githubusercontent.com/75777726/216211213-dc0fe7b9-8ef0-413b-a1c0-65b60b182daa.png)
+
+# Password Generator
+![Screenshot (14)](https://user-images.githubusercontent.com/75777726/216211850-015de61a-f260-4d53-9637-2f0fc2db1c98.png)
