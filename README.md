@@ -5,3 +5,6 @@
 
 # Smile Emoji maker
 ![Screenshot (12)](https://user-images.githubusercontent.com/75777726/216210989-e69252b4-62c6-4183-b36c-4ca4ff8a47d3.png)
+
+# Digital Clock
+![Screenshot (13)](https://user-images.githubusercontent.com/75777726/216211213-dc0fe7b9-8ef0-413b-a1c0-65b60b182daa.png)
